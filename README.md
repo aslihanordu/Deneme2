@@ -1,4 +1,4 @@
-# SpaceRovers# SpaceRovers
+# SpaceRovers
 
 NASA tarafından Mars'taki bir platoya bir robotik gezici ekibi inecek. Dikdörtgen olan bu plato, gezgini, gemideki kameralarının Dünya'ya geri göndermek için çevredeki arazinin tam bir görüntüsünü alabilmesi için geziciler tarafından yönlendirilmelidir. Bir gezicinin konumu ve konumu, x ve y koordinatlarının bir kombinasyonu ve dört ana pusula noktasından birini temsil eden bir harf ile temsil edilir. Plato, navigasyonu kolaylaştırmak için bir ızgaraya bölünmüştür.  Bir gezgini kontrol etmek için NASA basit bir harf dizisi gönderir. Olası harfler "L", "R" ve "M" dir. 'L' ve 'R', gezginin mevcut noktasından hareket etmeden sırasıyla 90 derece sola veya sağa dönmesini sağlar. 'M' bir ızgara noktası ileri gitmek ve aynı istikameti korumak anlamına gelir. (X, y) 'nin doğrudan kuzeyindeki karenin (x, y + 1) olduğunu varsayalım.
 
